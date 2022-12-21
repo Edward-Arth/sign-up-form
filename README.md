@@ -1,1 +1,1 @@
-# sign-up-form
+In this project, I created a sign-up form to practice some intermediate-level elements of HTML and CSS.
